@@ -1,0 +1,41 @@
+body {
+  font-family: 'Roboto Slab', serif;
+  background-color: black;
+  color: white;
+}
+
+#menu h2 {
+  color: crimson;
+}
+
+#header {
+  text-align: center;
+  padding: 100px 0px;
+}
+
+.content {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.item {
+  margin: 50px 10px;
+}
+
+p {
+  line-height: 170%;
+}
+
+.left {
+  padding:20px;
+}
+
+#breakyourownnews {
+  max-width: 45vw;
+}
+
+.right {
+  border: 1px solid #efefef;
+  padding: 20px;
+}
